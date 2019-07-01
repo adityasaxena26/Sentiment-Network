@@ -15,3 +15,14 @@ This project uses the following software and libraries:
 * Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
+
+### Project Instructions
+
+Clone the repository and navigate to the downloaded folder.
+
+`git clone https://github.com/adityasaxena26/Sentiment-Network.git`
+
+`cd Sentiment-Network`
+
+Run the following to open up the notebook server:
+`jupyter notebook`
