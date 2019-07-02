@@ -16,6 +16,10 @@ This project uses the following software and libraries:
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
+### Datasets:
+`reviews.txt` : Contains 25000 IMDb movies reviews. The data has already been preprocessed a bit and contains only lower case characters.
+`labels.txt` : Contains labels as either `positive` or `negative` to the corresponding reviews in the `reviews.txt` file.
+
 ### Project Instructions
 
 Clone the repository and navigate to the downloaded folder.
