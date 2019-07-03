@@ -13,6 +13,9 @@ This project uses the following software and libraries:
 * Python 2.7 or higher
 * Numpy
 * Jupyter Notebook
+* matplotlib
+* sklearn
+* BokehJS
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
