@@ -10,12 +10,12 @@ This project involves developing a neural network to classify sentiments of user
 
 ### Software and Libraries
 This project uses the following software and libraries:
-* Python 2.7 or higher
-* Numpy
-* Jupyter Notebook
-* matplotlib
-* sklearn
-* BokehJS
+* [Python 2.7 or higher](https://www.python.org/downloads/)
+* [Numpy](https://pypi.org/project/numpy/)
+* [Jupyter Notebook](https://jupyter.org/install)
+* [matplotlib](https://pypi.org/project/matplotlib/)
+* [scikit-learn](https://pypi.org/project/scikit-learn/)
+* [Bokeh](https://pypi.org/project/bokeh/)
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
